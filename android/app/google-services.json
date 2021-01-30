@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "696979703943",
+    "firebase_url": "https://frolicsports-39c94.firebaseio.com",
+    "project_id": "frolicsports-39c94",
+    "storage_bucket": "frolicsports-39c94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696979703943:android:e5a053263e4ba07a9d1022",
+        "android_client_info": {
+          "package_name": "com.frolic.frolicsports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696979703943-enlb9nqijttemu81fpt5iphsvhjmuvq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frolic.frolicsports",
+            "certificate_hash": "f1011efe9a8384f0f435490952a50b94f63403ef"
+          }
+        },
+        {
+          "client_id": "696979703943-24j7djauglt3ss6b1h8rsmnr8pcglt02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVjSDsqvUULOQ8Cb1HeqDH7nkWfMKcF5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696979703943-24j7djauglt3ss6b1h8rsmnr8pcglt02.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "696979703943-5q7dorh058flmoq83r8hib69fv0fd1p2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.frolic.frolicsports"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

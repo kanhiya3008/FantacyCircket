@@ -1,0 +1,125 @@
+name: frolicsports
+description: Frolic Sports
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.3
+  firebase_auth: ^0.16.1
+  google_sign_in: ^4.5.1
+  flutter_facebook_login: ^3.0.0
+  provider: ^4.1.3
+  package_info: ^0.4.0+13
+  progress_dialog: ^1.2.4
+  firebase_storage: ^3.1.6
+  cloud_firestore: ^0.13.7
+  cloud_functions: 0.4.2+2
+  flutter_spinkit: ^4.1.2+1
+  flutter_icons:
+  line_icons:
+  page_indicator:
+  flutter_launcher_icons:
+  uuid:
+  image_picker: ^0.6.2+3
+  bloc: 6.0.1
+  flutter_bloc: 6.0.1
+  modal_progress_hud: ^0.1.3
+  shared_preferences: ^0.5.6
+  device_info: ^0.4.1+4
+  connectivity: ^0.4.6+1
+  http: ^0.12.0+3
+  font_awesome_flutter: ^8.5.0
+  country_pickers: ^1.1.0
+  image_cropper: ^1.1.2
+  cached_network_image: ^2.0.0-rc
+  url_launcher: ^5.4.1
+  intl: ^0.16.0
+  share: ^0.6.3+5
+  flutter_page_indicator: ^0.0.3
+  fluttertoast: ^3.1.3
+  bottom_navy_bar: ^5.2.2
+  sticky_headers: ^0.1.8+1
+  webview_flutter: ^0.3.18+1
+  percent_indicator: ^2.1.1+1
+  paytm: 1.0.7
+  flutter_countdown_timer: 1.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  assets:
+    - assets/appUpdate.png
+    - assets/updateButtonImage.png
+
+    - assets/cricketImage1.png
+    - assets/cricketImage2.png
+    - assets/cricketImage3.png
+    - assets/cricketGround.png
+    - assets/ruppeIcon.png
+    - assets/cup.png
+    - assets/playerImage.png
+    - assets/userAvatar.png
+    - assets/pts.png
+    - assets/greencup.png
+    - assets/users.png
+    - assets/arrowE.png
+    - assets/arrowG.png
+    - assets/arrowL.png
+    - assets/notificationRupee.png
+    - assets/notificationCup.png
+    - assets/19.png
+    - assets/25.png
+    - assets/23.png
+    - assets/21.png
+    - assets/13.png
+    - assets/17.png
+    - assets/cname/
+    - assets/images/
+    - assets/
+
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Bold.ttf
+        - asset: fonts/Poppins-Regular.ttf
+        - asset: fonts/Poppins-RegularItalic.ttf
+        - asset: fonts/Poppins-Light.ttf
+        - asset: fonts/Poppins-LightItalic.ttf
+        - asset: fonts/Poppins-Thin.ttf
+        - asset: fonts/Poppins-ThinItalic.ttf

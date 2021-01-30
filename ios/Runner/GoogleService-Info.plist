@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>696979703943-5q7dorh058flmoq83r8hib69fv0fd1p2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.696979703943-5q7dorh058flmoq83r8hib69fv0fd1p2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>696979703943-enlb9nqijttemu81fpt5iphsvhjmuvq1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCX5D3AUJCZ6K5htFVFU75YWgSJPIRdeUs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>696979703943</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.frolic.frolicsports</string>
+	<key>PROJECT_ID</key>
+	<string>frolicsports-39c94</string>
+	<key>STORAGE_BUCKET</key>
+	<string>frolicsports-39c94.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:696979703943:ios:e0c1befbfc0a92449d1022</string>
+	<key>DATABASE_URL</key>
+	<string>https://frolicsports-39c94.firebaseio.com</string>
+</dict>
+</plist>
